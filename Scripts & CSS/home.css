@@ -1,0 +1,6 @@
+html body{
+    background-image: url("../Media/space.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white
+}

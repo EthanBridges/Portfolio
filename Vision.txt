@@ -1,0 +1,52 @@
+interactable terminal? for home screen
+visitor@website should be the user name like how a unix/bash terminal has root@localhost$
+
+
+Home:
+Animation? Like the fallout 4 one? If so im doing pixel art. Order 1. Goes To 2. Goes Down 3. Zooms into
+-Should be simple pixel art
+- 1st part = computer on long desk with things flashing... at a distance
+- 2nd part = zoom into the desk with the computer, both should be visable item on computer is still not visable
+- 3rd part = at the computer and you can finally see that its a terminal
+After those 3 parts we replace the animation and make it an actual useable terminal 
+Do Animation Tommorrow;
+
+
+Interactable Terminal  Why I thought of this -Recently Created LinuxApacheMysqlPhp (LAMP) stack on ubuntu server, Been playing fallout 4.
+-Commands:
+help
+SP (stands for Switch Page takes a additional argument to either make that page a new tab or move out of the terminal)
+testing (prints some random word from a list i dunno)
+
+Be able to login (me only) to see additional commands
+Login is 
+-Be able to switch to a non-terminal version, for non-technical people
+
+
+Logo (made from initials) in top corner. for websites that arent the terminal
+Logo will be a vector graphic rather than a raster so it will always have good quality and will be in svg format, I used inkscape to draw it
+
+About:
+Interests/Technical
+List abilities
+List Education
+
+Projects:
+List planned projects
+List Finished Projects
+List what I plan to learn
+List what I learnt
+List "ratings/abilities"
+
+Contact:
+Functioning Contact Page that uses php to enter the message and info to a sql database and have a page that requires login in the terminal to see OR
+functioning contact page that uses php to email the message to me. (PHP has native mail() or PHPMailer)
+Standard  form stuff Stuff
+Use BootStrap, Check email against blocked/fake emails, Rounded Border
+
+
+Site Logs:
+Must be logged in, command from the terminal
+
+Messages:
+Must Be logged in command from the terminal
